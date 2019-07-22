@@ -1,0 +1,7 @@
+name = "HTML-HyperCode"
+# badges = ["travis-ci.com"]
+authority="cpan:NYARLA"
+
+module_maker="ModuleBuildTiny"
+static_install = "auto"
+
